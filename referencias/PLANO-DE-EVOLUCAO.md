@@ -1,6 +1,6 @@
 # 🚀 Plano de Evolução — 12 — Delivery de comida
 
-> **Este é o roteiro do seu grupo.** O projeto **não nasce pronto**: a cada aula, alguém do
+> **Este é o roteiro do grupo.** O projeto **não nasce pronto**: a cada aula, alguém do
 > projeto (o dono de um app de delivery, gerente, dev sênior…) traz um **novo problema**, e resolvê-lo bem exige
 > justamente o **conceito daquela aula**. O sistema começa como Java simples e vai ganhando
 > POO, encapsulamento, herança, SOLID, KISS… **na hora em que cada um faz falta.**
