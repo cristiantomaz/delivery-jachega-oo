@@ -35,4 +35,4 @@ Uma pessoa confere classes e atributos com a entrevista; outra valida setas e mu
 
 ## Entrega
 
-Cada integrante envia individualmente ao Google Forms seu nome, RA e **o mesmo link deste repositório**. O link do formulário não foi fornecido aqui.
+Cada integrante envia individualmente ao Google Forms seu nome, RA e **o mesmo link deste repositório**.
